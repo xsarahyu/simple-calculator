@@ -5,7 +5,8 @@
 - Inputs and answers are displayed on the screen.
 - The "AC" button removes all elements on the screen, while the "DEL" button only removes the last element.
 
-![image of calculator](image.png)
+<div align="center"><img src="simple-calculator.png" width=300px></div>
+
 
 ### Tech Used
 - HTML
